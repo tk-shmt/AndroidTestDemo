@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tax Calculator</string>
+    <string name="price_placeholder">金額を入力</string>
+    <string name="button_calc">計算</string>
+</resources>
